@@ -1,0 +1,8 @@
+D:\Unity\cs_study\LearnCS\LearnCS\bin\Debug\LearnCS.exe.config
+D:\Unity\cs_study\LearnCS\LearnCS\bin\Debug\LearnCS.exe
+D:\Unity\cs_study\LearnCS\LearnCS\bin\Debug\LearnCS.pdb
+D:\Unity\cs_study\LearnCS\LearnCS\obj\Debug\LearnCS.csproj.AssemblyReference.cache
+D:\Unity\cs_study\LearnCS\LearnCS\obj\Debug\LearnCS.csproj.SuggestedBindingRedirects.cache
+D:\Unity\cs_study\LearnCS\LearnCS\obj\Debug\LearnCS.csproj.CoreCompileInputs.cache
+D:\Unity\cs_study\LearnCS\LearnCS\obj\Debug\LearnCS.exe
+D:\Unity\cs_study\LearnCS\LearnCS\obj\Debug\LearnCS.pdb
